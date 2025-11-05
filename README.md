@@ -21,14 +21,7 @@ Histogram Equalization enhances image contrast by spreading out the most frequen
 In simple terms:
 - It **brightens dark images** and **balances contrast**.
 - Useful in **medical**, **satellite**, and **low-light** images.
-
-Example transformation:
-
-| Original Image | Equalized Image |
-|----------------|----------------|
-| ![Before](https://upload.wikimedia.org/wikipedia/commons/3/3c/Histogramme.png) | ![After](https://upload.wikimedia.org/wikipedia/commons/8/88/Histogram_equalization.png) |
-
----
+  
 
 ## 🧩 Dependencies
 
